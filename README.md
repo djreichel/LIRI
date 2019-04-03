@@ -42,7 +42,7 @@ This will output the following information to your terminal/bash window:
 
 Here's a screenshot of the working movie-this code:
 ![Image of spotify-this-song]
-((https://github.com/djreichel/LIRI/assets/liri-movie-this.png)
+(https://github.com/djreichel/LIRI/assets/liri-movie-this.png)
 
 If no movie name is provided then the program will default to "Mr. Nobody")
 
@@ -51,4 +51,4 @@ This will output one of LIRI's commands from a random text file.
 
 Here's a screenshot of the working do-what-it-says code:
 ![Image of do-what-it-says]
-(../liri-do-what-it-says.png)
+(https://github.com/djreichel/LIRI/assets/liri-do-what-it-says.png)
