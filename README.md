@@ -3,7 +3,7 @@ Language Interpretation and Recognition Interface
 
 My LIRI node app toggles through one of four user input commands: concert-this, spotify-this-song, movie-this and do-what-it-says.
 
-**Concert-this** (with user input mirroring "node liri concert-this *artist/band name here*")
+**Concert-this** (with user input mirroring "node liri concert-this *artist/band name*")
 This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and render the following information about each event to the terminal:
 
 * *Name of the venue*
@@ -13,7 +13,7 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 Here's a screenshot of the working concert-this code:
 ![Image of concert-this](assets/liri-concert-this.png)
 
-**Spotify-this-song** (with user input mirroring "node liri spotify-this-song *song name here*")
+**Spotify-this-song** (with user input mirroring "node liri spotify-this-song *song name*")
 This will show the following information about the song in your terminal/bash window
 
 * *Artist(s)*
@@ -26,7 +26,7 @@ Here's a screenshot of the working spotify-this-song code:
 
 If no song name is provided then the program will default to "The Sign" by Ace of Base.)
 
-**Movie-this** (with user input mirroring "node liri movie-this *movie name here*")
+**Movie-this** (with user input mirroring "node liri movie-this *movie name*")
 This will output the following information to your terminal/bash window:
 
 * *Title of the movie*
