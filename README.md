@@ -24,7 +24,7 @@ This will show the following information about the song in your terminal/bash wi
 
 Here's a screenshot of the working spotify-this-song code:
 ![Image of spotify-this-song]
-(./assets/liri-spotify-this-song.png)
+(/../master/assets/liri-spotify-this-song.png?raw=true)
 
 If no song name is provided then the program will default to "The Sign" by Ace of Base.)
 
