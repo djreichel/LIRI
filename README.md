@@ -22,8 +22,7 @@ This will show the following information about the song in your terminal/bash wi
 *The album that the song is from*
 
 Here's a screenshot of the working spotify-this-song code:
-![Image of spotify-this-song]
-(https://raw.githubusercontent.com/djreichel/LIRI/master/assets/liri-spotify-this-song.png)
+![Image of spotify-this-song](assets/liri-spotify-this-song.png)
 
 If no song name is provided then the program will default to "The Sign" by Ace of Base.)
 
@@ -40,8 +39,7 @@ This will output the following information to your terminal/bash window:
 *Actors in the movie*
 
 Here's a screenshot of the working movie-this code:
-![Image of spotify-this-song]
-(https://raw.githubusercontent.com/djreichel/LIRI/master/assets/liri-movie-this.png)
+![Image of spotify-this-song](assets/liri-movie-this.png)
 
 If no movie name is provided then the program will default to "Mr. Nobody")
 
@@ -49,5 +47,4 @@ If no movie name is provided then the program will default to "Mr. Nobody")
 This will output one of LIRI's commands from a random text file.
 
 Here's a screenshot of the working do-what-it-says code:
-![Image of do-what-it-says]
-(https://raw.githubusercontent.com/djreichel/LIRI/master/assets/liri-do-what-it-says.png)
+![Image of do-what-it-says](assets/liri-do-what-it-says.png)
