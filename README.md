@@ -12,7 +12,7 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 
 Here's a screenshot of the working concert-this code:
 ![Image of concert-this]
-(https://github.com/djreichel/LIRI/assets/liri-concert-this.png)
+(https://raw.githubusercontent.com/djreichel/LIRI/master/assets/liri-concert-this.png)
 
 **Spotify-this-song** (with user input mirroring "node liri spotify-this-song <song name here>")
 This will show the following information about the song in your terminal/bash window
@@ -42,7 +42,7 @@ This will output the following information to your terminal/bash window:
 
 Here's a screenshot of the working movie-this code:
 ![Image of spotify-this-song]
-(../assets/liri-movie-this.png)
+(https://raw.githubusercontent.com/djreichel/LIRI/master/assets/liri-movie-this.png)
 
 If no movie name is provided then the program will default to "Mr. Nobody")
 
@@ -51,4 +51,4 @@ This will output one of LIRI's commands from a random text file.
 
 Here's a screenshot of the working do-what-it-says code:
 ![Image of do-what-it-says]
-(assets/liri-do-what-it-says.png)
+(https://raw.githubusercontent.com/djreichel/LIRI/master/assets/liri-do-what-it-says.png)
