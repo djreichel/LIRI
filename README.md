@@ -11,8 +11,7 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 *Date of the Event (use moment to format this as "MM/DD/YYYY")*
 
 Here's a screenshot of the working concert-this code:
-![Image of concert-this]
-(assets/liri-concert-this.png)
+![Image of concert-this] (assets/liri-concert-this.png)
 
 **Spotify-this-song** (with user input mirroring "node liri spotify-this-song <song name here>")
 This will show the following information about the song in your terminal/bash window
