@@ -51,4 +51,4 @@ This will output one of LIRI's commands from a random text file.
 
 Here's a screenshot of the working do-what-it-says code:
 ![Image of do-what-it-says]
-(/assets/liri-do-what-it-says.png)
+(assets/liri-do-what-it-says.png)
